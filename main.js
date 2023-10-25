@@ -1,2 +1,4 @@
-> document.querySelector('#som_tecla_pom')
-<audio src="sounds/keyq.wav" id="som_tecla_pom"></audio>
+function tecaSomPom{
+    document.querySelector('#Som_tecla_pom').play();
+}
+>document.querySelector('.tecla_pmom').onclick= tocasompom
